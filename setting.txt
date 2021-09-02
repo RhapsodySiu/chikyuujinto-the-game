@@ -1,0 +1,22 @@
+constitution: 100
+powress: 100
+strength: 40
+extroversion 50 introvertion
+sensing 50 fintuiting
+thinking 50 feeling
+judging 50 perceiving
+Sanguine 0 //Extrovert, talkative, rude, weak-willed, charming, warm, undisciplined
+Choleric 0 //Outgoing, high flyer, optimistic, people user, self center, leader
+Melancholic 0 //Sensitive, loner, analytical, depressed, introvert, calm
+Phlegmatic 0 //Introvert, practical, indecisiveness, easygoing, withdrawn
+Supine 0//Inferior, dutiful, passive, powerless, feeble, loyal, peaceful
+Desire to 50 //Appetite, lust...
+Boredom to 0 //
+Humor to 50
+Luck to 50
+charm to 98
+wisdom to 
+sanity to 50
+morality to 50
+story to 1
+Dexterity: 30
